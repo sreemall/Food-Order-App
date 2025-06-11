@@ -1,0 +1,62 @@
+[
+	{
+		"id" : 1,
+		"orderId" : "1",
+		"fooditemId" : "1",
+		"fooditemPrice" : 12.00,
+		"unitsPurchased" : 5,
+		"isActive" : 1,
+		"createdTs" : "2023-05-11 10:00:00",
+		"updatedTs" : "2023-05-11 10:00:00"
+	},
+	{
+		"id" : 2,
+		"orderId" : "1",
+		"fooditemId" : "3",
+		"fooditemPrice" : 22.00,
+		"unitsPurchased" : 1,
+		"isActive" : 1,
+		"createdTs" : "2023-05-11 10:00:00",
+		"updatedTs" : "2023-05-11 10:00:00"
+	},
+	{
+		"id" : 3,
+		"orderId" : "1",
+		"fooditemId" : "12",
+		"fooditemPrice" : 24.00,
+		"unitsPurchased" : 2,
+		"isActive" : 1,
+		"createdTs" : "2023-05-11 10:00:00",
+		"updatedTs" : "2023-05-11 10:00:00"
+	},
+	{
+		"id" : 4,
+		"orderId" : "1",
+		"fooditemId" : "15",
+		"fooditemPrice" : 15.00,
+		"unitsPurchased" : 2,
+		"isActive" : 1,
+		"createdTs" : "2023-05-11 10:00:00",
+		"updatedTs" : "2023-05-11 10:00:00"
+	},
+	{
+		"id" : 5,
+		"orderId" : "2",
+		"fooditemId" : "16",
+		"fooditemPrice" : 35.00,
+		"unitsPurchased" : 2,
+		"isActive" : 1,
+		"createdTs" : "2023-05-09 12:00:00",
+		"updatedTs" : "2023-05-09 12:00:00"
+	},
+	{
+		"id" : 6,
+		"orderId" : "3",
+		"fooditemId" : "10",
+		"fooditemPrice" : 10.00,
+		"unitsPurchased" : 3,
+		"isActive" : 1,
+		"createdTs" : "2023-05-08 05:00:00",
+		"updatedTs" : "2023-05-08 05:00:00"
+	}
+]

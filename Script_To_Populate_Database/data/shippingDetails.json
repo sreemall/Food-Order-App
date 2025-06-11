@@ -1,0 +1,29 @@
+[
+	{
+		"id" : "1",
+		"shippingAddress" : "123 Main St, Anytown USA",
+		"emailId" : "johndoe@example.com",
+		"phoneNo" : 5551234,
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	},
+	{
+		"id" : "2",
+		"shippingAddress" : "456 Oak St, Anytown USA",
+		"emailId" : "janedoe@example.com",
+		"phoneNo" : 5555678,
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	},
+	{
+		"id" : "3",
+		"shippingAddress" : "789 Elm St, Anytown USA",
+		"emailId" : "bob@example.com",
+		"phoneNo" : 5559012,
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	}
+]
