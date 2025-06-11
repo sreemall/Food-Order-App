@@ -1,0 +1,29 @@
+[
+	{
+		"id" : "1",
+		"userId" : "1",
+		"restaurantId" : "3",
+		"orderTotalPrice" : 270.00,
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	},
+	{
+		"id" : "2",
+		"userId" : "2",
+		"restaurantId" : "4",
+		"orderTotalPrice" : 140.00,
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	},
+	{
+		"id" : "3",
+		"userId" : "3",
+		"restaurantId" : "7",
+		"orderTotalPrice" : 100.00,
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	}
+]

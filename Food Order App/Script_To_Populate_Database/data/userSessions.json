@@ -1,0 +1,26 @@
+[
+	{
+		"id" : "1",
+		"userId" : 1,
+		"sessionToken" : "sessionToken123",
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	},
+	{
+		"id" : "2",
+		"userId" : 2,
+		"sessionToken" : "sessionToken456",
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	},
+	{
+		"id" : "3",
+		"userId" : 3,
+		"sessionToken" : "sessionToken789",
+		"isActive" : true,
+		"createdTs" : "2023-12-12 11:18:03",
+		"updatedTs" : "2023-12-12 11:18:03"
+	}
+]

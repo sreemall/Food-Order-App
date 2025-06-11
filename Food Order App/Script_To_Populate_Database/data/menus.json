@@ -1,0 +1,72 @@
+[
+	{
+		"id": "1",
+		"restaurantId": 1,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "2",
+		"restaurantId": 2,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "3",
+		"restaurantId": 3,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "4",
+		"restaurantId": 4,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "5",
+		"restaurantId": 5,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "6",
+		"restaurantId": 6,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "7",
+		"restaurantId": 7,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "8",
+		"restaurantId": 8,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "9",
+		"restaurantId": 9,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	},
+	{
+		"id": "10",
+		"restaurantId": 10,
+		"isActive": true,
+		"createdTs": "2023-12-12 11:18:03",
+		"updatedTs": "2023-12-12 11:18:03"
+	}
+]

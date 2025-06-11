@@ -1,0 +1,35 @@
+[
+	{
+		"id" : "1",
+		"userId" : 1,
+		"restaurantId" : 2,
+		"orderTotalPrice" : 160.00,
+		"shippingDetailsId" : 1,
+		"orderStatus" : "PROCESSING",
+		"isActive" : true,
+		"createdTs" : "2023-05-11 10:00:00",
+		"updatedTs" : "2023-05-11 10:00:00"
+	},
+	{
+		"id" : "2",
+		"userId" : 2,
+		"restaurantId" : 5,
+		"orderTotalPrice" : 70.00,
+		"shippingDetailsId" : 2,
+		"orderStatus" : "SHIPPED",
+		"isActive" : true,
+		"createdTs" : "2022-05-09 12:00:00",
+		"updatedTs" : "2022-05-09 13:00:00"
+	},
+	{
+		"id" : "3",
+		"userId" : 3,
+		"restaurantId" : 10,
+		"orderTotalPrice" : 90.00,
+		"shippingDetailsId" : 3,
+		"orderStatus" : "DELIVERED",
+		"isActive" : true,
+		"createdTs" : "2023-05-08 05:00:00",
+		"updatedTs" : "2023-05-08 07:00:00"
+	}
+]
